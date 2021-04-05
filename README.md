@@ -1,4 +1,4 @@
-# RestaurantPos
+# Restaurant Pos
 Point of Sale System for Famous Burger Stand
 (Due July 8th)
 Background: A famous burger stand has been in
